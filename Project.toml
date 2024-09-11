@@ -1,0 +1,10 @@
+name = "tech411"
+authors = [John Gibson <john.gibson@unh.edu>]
+uuid = "7fd8de9a-54f3-4fce-bdc5-a365f7b95dce"
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+julia = "1.10"
