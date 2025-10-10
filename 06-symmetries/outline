@@ -1,0 +1,29 @@
+
+group theory: the mathematics of patterns and symmetry
+  definition of group
+  symmetry == invariance of set under group action
+  generators
+  subgroups
+  
+examples
+  nonzero reals under multiplication
+  integers under addition
+  rotations of plane
+  rotations and reflections of plane
+  rotations, reflections, and translations of plane
+  
+  odd/even functions
+  symmetries of polygons
+
+  periodicity
+  wallpaper
+  
+dynamics
+  heat eqn, wave eqn
+  fluids
+
+activity
+  verify that rotations of plane form a group
+  
+  compute multiplication table for symmetries of polygon
+  express each element as product of generators
